@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/SnakeLadder/Dice.h
+
+C:/SnakeLadder/Grid.h
+Snake.h
+C:/SnakeLadder/Snake.h
+Ladder.h
+C:/SnakeLadder/Ladder.h
+vector
+-
+
+C:/SnakeLadder/Ladder.h
+
+C:/SnakeLadder/Snake.h
+
+C:/SnakeLadder/User.h
+string
+-
+
+C:/SnakeLadder/main.cpp
+iostream
+-
+ctime
+-
+Grid.h
+C:/SnakeLadder/Grid.h
+Dice.h
+C:/SnakeLadder/Dice.h
+User.h
+C:/SnakeLadder/User.h
+

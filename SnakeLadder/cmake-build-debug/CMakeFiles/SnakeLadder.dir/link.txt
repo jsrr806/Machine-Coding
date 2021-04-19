@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\SnakeLadder.dir/objects.a
+C:\mingw\bin\ar.exe cr CMakeFiles\SnakeLadder.dir/objects.a @CMakeFiles\SnakeLadder.dir\objects1.rsp
+C:\mingw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\SnakeLadder.dir/objects.a -Wl,--no-whole-archive -o SnakeLadder.exe -Wl,--out-implib,libSnakeLadder.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SnakeLadder.dir\linklibs.rsp
